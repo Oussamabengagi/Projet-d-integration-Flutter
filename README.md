@@ -1,6 +1,9 @@
 # ISETJMAP
 
-A new Flutter project.
+## SCREENSHOTS FROM THE APP
+
+### Login
+![Screenshot](auth_login.png)
 
 ## Getting Started
 
