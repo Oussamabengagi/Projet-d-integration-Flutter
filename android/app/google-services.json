@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "478101728122",
+    "project_id": "isetgeo-94707",
+    "storage_bucket": "isetgeo-94707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478101728122:android:667f76abd47e0ceada44c3",
+        "android_client_info": {
+          "package_name": "com.bengagi.isetj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478101728122-kp387scnlgahf40hb53t7grml79npc6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bengagi.isetj",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "478101728122-lpjbsg8rmv9i3opps5g3b84ph5f7dlqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRbE8QKAwqmRUxbF5YC7LbMylno1l-7iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478101728122-lpjbsg8rmv9i3opps5g3b84ph5f7dlqo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478101728122-k5hvlm3649n04cffv88feju0p1gjj6q1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bengagi.isetj"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
